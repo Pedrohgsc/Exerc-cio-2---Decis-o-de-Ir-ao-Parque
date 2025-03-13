@@ -1,6 +1,3 @@
-# Exercicio-2-Decisao de Ir ao Parque
-import numpy as np
-from sklearn.linear_model import Perceptron
 
 # Exercício 2 - Decisão de Ir ao Parque
 # Dados de treinamento
